@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE map
+PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN"
+"http://java.sun.com/products/javahelp/map_2_0.dtd">
+<toc version="2.0" categorycloseimage="toplevel" categoryopenimage="chaptopic"
+  topicimage="topic">
+      <tocitem text="menu" target="menu"/>
+      <tocitem text="clientes" target="clientes"/>
+      <tocitem text="reserva de habitacion" target="Habitacion"/>
+      <tocitem text="reserva de salon" target="AyudaReservaSalon"/>
+</toc>
